@@ -1,2 +1,2 @@
 # comp2315lm
-__Programación Estructurada__
+Curso de __Programación Estructurada__
