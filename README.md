@@ -1,3 +1,4 @@
-# comp2315lm
-Curso de __Programación Estructurada__ \
-Autor: Karina Meléndez
+# COMP2315
+## Autor: Karina Meléndez Torres
+Curso de Programación Estructurada Lunes y Miércoles
+
