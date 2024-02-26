@@ -1,4 +1,5 @@
 # COMP2315
-## Autor: Karina Meléndez Torres
-Curso de Programación Estructurada Lunes y Miércoles
+## Autor: Karina Meléndez Torrs
+Curso de Programación Estructurada\
+Introducción a C++
 
