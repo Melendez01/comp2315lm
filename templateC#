@@ -1,12 +1,12 @@
 using System;
 
-namespace Lab01
+namespace MyApp
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World, Welcome to the course COMP2315!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
