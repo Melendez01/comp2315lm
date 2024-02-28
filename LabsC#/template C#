@@ -1,12 +1,12 @@
-﻿using System;
+using System;
 
-namespace HelloWorld
+namespace MyApp
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World Mundo cruel!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
