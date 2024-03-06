@@ -18,9 +18,16 @@ int main() {
     cin >> caracter;
 
     cout << "Ingrese una cadena de caracteres: ";
-    cin.ignore();  // ignorar el '\n' dejado por
-                  // std::cin >> caracter
-    getline(cin, cadena);
+    cin.ignore();       // ignorar el '\n' dejado por cin >> caracter
+    getline(cin, cadena); //
+    
+    cout <<" ";
+    cout <<"-----------------------------------------------------\n";
+
+     cout << "El número entero ingresado es: " << entero << endl;
+     cout << "El número flotante ingresado es: " << flotante << endl;
+     cout << "El carácter ingresado es: " << caracter << endl;
+     cout << "La cadena ingresada es: " << cadena << endl;
 
     return 0;
 }
