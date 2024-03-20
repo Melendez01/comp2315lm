@@ -1,0 +1,15 @@
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/tryCatch/bin/Debug/net7.0/tryCatch
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/tryCatch/bin/Debug/net7.0/tryCatch.deps.json
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/tryCatch/bin/Debug/net7.0/tryCatch.runtimeconfig.json
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/tryCatch/bin/Debug/net7.0/tryCatch.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/tryCatch/bin/Debug/net7.0/tryCatch.pdb
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/tryCatch/obj/Debug/net7.0/tryCatch.csproj.AssemblyReference.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/tryCatch/obj/Debug/net7.0/tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/tryCatch/obj/Debug/net7.0/tryCatch.AssemblyInfoInputs.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/tryCatch/obj/Debug/net7.0/tryCatch.AssemblyInfo.cs
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/tryCatch/obj/Debug/net7.0/tryCatch.csproj.CoreCompileInputs.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/tryCatch/obj/Debug/net7.0/tryCatch.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/tryCatch/obj/Debug/net7.0/refint/tryCatch.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/tryCatch/obj/Debug/net7.0/tryCatch.pdb
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/tryCatch/obj/Debug/net7.0/tryCatch.genruntimeconfig.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/tryCatch/obj/Debug/net7.0/ref/tryCatch.dll
