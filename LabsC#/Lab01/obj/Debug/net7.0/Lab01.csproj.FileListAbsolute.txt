@@ -1,0 +1,15 @@
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/Lab01/bin/Debug/net7.0/Lab01
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/Lab01/bin/Debug/net7.0/Lab01.deps.json
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/Lab01/bin/Debug/net7.0/Lab01.runtimeconfig.json
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/Lab01/bin/Debug/net7.0/Lab01.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/Lab01/bin/Debug/net7.0/Lab01.pdb
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/Lab01/obj/Debug/net7.0/Lab01.csproj.AssemblyReference.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/Lab01/obj/Debug/net7.0/Lab01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/Lab01/obj/Debug/net7.0/Lab01.AssemblyInfoInputs.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/Lab01/obj/Debug/net7.0/Lab01.AssemblyInfo.cs
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/Lab01/obj/Debug/net7.0/Lab01.csproj.CoreCompileInputs.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/Lab01/obj/Debug/net7.0/Lab01.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/Lab01/obj/Debug/net7.0/refint/Lab01.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/Lab01/obj/Debug/net7.0/Lab01.pdb
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/Lab01/obj/Debug/net7.0/Lab01.genruntimeconfig.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/Lab01/obj/Debug/net7.0/ref/Lab01.dll
