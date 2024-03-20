@@ -32,6 +32,6 @@ int main()
     {
         cout << "Excepción capturada: " << mensaje << endl;
     }
-
+    
     return 0;
 }
