@@ -10,8 +10,8 @@ using namespace std;
 
 int main() 
 {
-    int numerador, denominador, resultado;
-
+    double numerador, denominador, resultado;
+    
     cout << "Ingrese el numerador: ";
     cin >> numerador;
 
