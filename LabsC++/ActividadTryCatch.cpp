@@ -14,7 +14,8 @@ int main() {
         }
 
         cout << "Numero entero ingresado: " << numero << endl;
-    } catch (const char* mensaje) {
+    } catch (const char* mensaje) 
+    {
         cout << "Error: " << mensaje << endl;
     }
 
