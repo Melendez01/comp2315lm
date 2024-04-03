@@ -18,7 +18,7 @@ int main()
             throw "El numero ingresado no es un entero.";
         }
 
-        cout << "El numero entero ingresado es: " << numero << end;
+        cout << "El numero entero ingresado es: " << numero << endl;
 
     }
     catch (const char* mensaje)

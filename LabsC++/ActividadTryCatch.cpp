@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-    double numero;
+int main() 
+{
+    int numero;
 
     cout << "Por favor, introduce un numero entero: ";
 

@@ -1,0 +1,15 @@
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/EstructuraSimple/obj/Debug/net8.0/EstructuraSimple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/EstructuraSimple/obj/Debug/net8.0/EstructuraSimple.AssemblyInfoInputs.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/EstructuraSimple/obj/Debug/net8.0/EstructuraSimple.AssemblyInfo.cs
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/EstructuraSimple/obj/Debug/net8.0/EstructuraSimple.csproj.CoreCompileInputs.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/EstructuraSimple/obj/Debug/net8.0/EstructuraSimple.sourcelink.json
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/EstructuraSimple/bin/Debug/net8.0/EstructuraSimple
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/EstructuraSimple/bin/Debug/net8.0/EstructuraSimple.deps.json
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/EstructuraSimple/bin/Debug/net8.0/EstructuraSimple.runtimeconfig.json
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/EstructuraSimple/bin/Debug/net8.0/EstructuraSimple.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/EstructuraSimple/bin/Debug/net8.0/EstructuraSimple.pdb
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/EstructuraSimple/obj/Debug/net8.0/EstructuraSimple.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/EstructuraSimple/obj/Debug/net8.0/refint/EstructuraSimple.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/EstructuraSimple/obj/Debug/net8.0/EstructuraSimple.pdb
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/EstructuraSimple/obj/Debug/net8.0/EstructuraSimple.genruntimeconfig.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS 2024/COMP2315/LabsC#/EstructuraSimple/obj/Debug/net8.0/ref/EstructuraSimple.dll
