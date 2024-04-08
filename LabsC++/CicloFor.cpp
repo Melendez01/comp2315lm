@@ -4,8 +4,8 @@ using namespace std;
 int main()
 {
     int suma = 0; //Valor inicial de la variable que es el acumulador 
-
-    for (int i = 1; i <= 10; i++) 
+    int i;
+    for (i = 1; i <= 10; i++) 
     {
         suma = suma + i;
     }
